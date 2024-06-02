@@ -37,7 +37,7 @@ header p {
   font-size:1.2em;
 }
 .hero {
-  background-color: #ffd4ac;
+  background-color: #ffac5e;
   padding: 50px 0;
   text-align: center;
 }
@@ -54,7 +54,7 @@ header p {
 }
 
 .hero .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50; 
   border: none;
   color: white;
   padding: 15px 30px;
